@@ -70,7 +70,7 @@ me = AmanRawat()
 <div align="center">
 
 ### 🔗 LeetCode Profile
-https://leetcode.com/YOUR_LEETCODE_USERNAME/
+https://leetcode.com/aman_1004/
 
 </div>
 
