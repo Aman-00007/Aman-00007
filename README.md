@@ -52,8 +52,8 @@ me = AmanRawat()
 💡 Passionate about solving real-world problems through code  
 ⚡ Strong interest in **Data Structures & Algorithms**  
 🌐 Building scalable backend applications using **Node.js** & **Express.js**  
-🔥 Solved **300+ LeetCode Problems** with a **127-Day Streak**  
-🚀 Currently learning **Advanced Backend Development** and **System Design**
+🔥 Solved **400+ LeetCode Problems** with a **127-Day Streak**  
+🚀 Currently learning **Advanced Backend Development**
 
 </div>
 
@@ -157,9 +157,9 @@ https://leetcode.com/aman_1004/
 ```javascript
 const aman = {
     currentlyWorkingOn: "Backend Development",
-    currentlyLearning: ["System Design", "Next.js", "Advanced APIs"],
+    currentlyLearning: ["Next.js", "Advanced APIs"],
     lookingToCollaborate: true,
-    funFact: "I love solving DSA problems late at night 🌙"
+    funFact: "I love solving DSA problems in the morning✨🌅"
 };
 ```
 
