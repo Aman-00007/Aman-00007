@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=300%2B+LeetCode+Problems+Solved;Backend+Developer+using+Node.js+%26+Express.js;Passionate+about+DSA+and+Web+Development;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=400%2B+LeetCode+Problems+Solved;Backend+Developer+using+Node.js+%26+Express.js;Passionate+about+DSA+and+Web+Development;Always+Learning+New+Technologies+🚀" />
 
 </div>
 
