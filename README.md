@@ -36,7 +36,7 @@ class AmanRawat:
 
     def achievements(self):
         return {
-            "leetcode": "300+ Problems Solved",
+            "leetcode": "400+ Problems Solved",
             "streak": "127 Days Max Streak",
             "focus": "DSA + Backend Development"
         }
