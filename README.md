@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=400%2B+LeetCode+Problems+Solved;Backend+Developer+using+Node.js+%26+Express.js;Passionate+about+DSA+and+Web+Development;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=450%2B+LeetCode+Problems+Solved;Backend+Developer+using+Node.js+%26+Express.js;Passionate+about+DSA+and+Web+Development;Always+Learning+New+Technologies+🚀" />
 
 </div>
 
@@ -36,7 +36,7 @@ class AmanRawat:
 
     def achievements(self):
         return {
-            "leetcode": "400+ Problems Solved",
+            "leetcode": "450+ Problems Solved",
             "streak": "127 Days Max Streak",
             "focus": "DSA + Backend Development"
         }
@@ -52,7 +52,7 @@ me = AmanRawat()
 💡 Passionate about solving real-world problems through code  
 ⚡ Strong interest in **Data Structures & Algorithms**  
 🌐 Building scalable backend applications using **Node.js** & **Express.js**  
-🔥 Solved **400+ LeetCode Problems** with a **127-Day Streak**  
+🔥 Solved **450+ LeetCode Problems** with a **127-Day Streak**  
 🚀 Currently learning **Advanced Backend Development**
 
 </div>
